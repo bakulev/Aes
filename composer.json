@@ -18,7 +18,7 @@
 	],
 	"support": {
 		"email": "script-enc@movable-type.co.uk",
-		"source": "https://github.com/bakulev/aes"
+		"source": "https://github.com/bakulev/Aes"
 	},
 	"autoload": {
 		"psr-0": {
