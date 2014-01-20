@@ -1,0 +1,28 @@
+{
+	"name": "anba/aes",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"description": "AES implementation in PHP"
+	"version": "1.0.0",
+	"type": "library",
+	"keywords": ["aes", "encryption"],
+	"license": "GPL",
+	"authors": [
+		{
+			"name": "Chris Veness",
+			"email": "script-enc@movable-type.co.uk",
+			"homepage": "http://www.movable-type.co.uk/scripts",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"email": "script-enc@movable-type.co.uk",
+		"source": "https://github.com/bakulev/aes"
+	},
+	"autoload": {
+		"psr-0": {
+			"Anba\\Aes": "lib/"
+		}
+	}
+}
