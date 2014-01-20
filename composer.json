@@ -3,7 +3,7 @@
 	"require": {
 		"php": ">=5.3.0"
 	},
-	"description": "AES implementation in PHP"
+	"description": "AES implementation in PHP",
 	"version": "1.0.0",
 	"type": "library",
 	"keywords": ["aes", "encryption"],
